@@ -1,0 +1,91 @@
+
+M: 1000, N: 2000, K: 1000, P: 1
+Duration Serial: 8.64854 seconds
+Duration Parallel: 9.33026 seconds
+Speedup S: 0.926934
+Computational complexity W: 2000000000 operations
+Efficiency E: 0.926934
+Cost of computations C: 9.33026
+Total overhead T0: 80.6931
+
+M: 1000, N: 2000, K: 1000, P: 2
+Duration Serial: 8.68694 seconds
+Duration Parallel: 4.83309 seconds
+Speedup S: 1.79739
+Computational complexity W: 2000000000 operations
+Efficiency E: 0.898694
+Cost of computations C: 9.66618
+Total overhead T0: 83.9695
+
+M: 1000, N: 2000, K: 1000, P: 4
+Duration Serial: 8.99503 seconds
+Duration Parallel: 2.55622 seconds
+Speedup S: 3.51888
+Computational complexity W: 2000000000 operations
+Efficiency E: 0.87972
+Cost of computations C: 10.2249
+Total overhead T0: 91.9732
+
+M: 1000, N: 2000, K: 1000, P: 8
+Duration Serial: 9.06517 seconds
+Duration Parallel: 1.86212 seconds
+Speedup S: 4.8682
+Computational complexity W: 2000000000 operations
+Efficiency E: 0.608525
+Cost of computations C: 14.8969
+Total overhead T0: 135.043
+
+M: 1000, N: 2000, K: 1000, P: 16
+Duration Serial: 9.32597 seconds
+Duration Parallel: 1.59962 seconds
+Speedup S: 5.83011
+Computational complexity W: 2000000000 operations
+Efficiency E: 0.364382
+Cost of computations C: 25.5939
+Total overhead T0: 238.688
+
+M: 1000, N: 1000, K: 1000, P: 1
+Duration Serial: 4.36037 seconds
+Duration Parallel: 4.53064 seconds
+Speedup S: 0.962417
+Computational complexity W: 1000000000 operations
+Efficiency E: 0.962417
+Cost of computations C: 4.53064
+Total overhead T0: 19.7553
+
+M: 2000, N: 1000, K: 1000, P: 2
+Duration Serial: 8.58866 seconds
+Duration Parallel: 4.63927 seconds
+Speedup S: 1.8513
+Computational complexity W: 2000000000 operations
+Efficiency E: 0.925648
+Cost of computations C: 9.27854
+Total overhead T0: 79.6903
+
+M: 4000, N: 1000, K: 1000, P: 4
+Duration Serial: 17.4129 seconds
+Duration Parallel: 4.82163 seconds
+Speedup S: 3.6114
+Computational complexity W: 4000000000 operations
+Efficiency E: 0.902851
+Cost of computations C: 19.2865
+Total overhead T0: 335.834
+
+M: 8000, N: 1000, K: 1000, P: 8
+Duration Serial: 35.1591 seconds
+Duration Parallel: 7.71922 seconds
+Speedup S: 4.55475
+Computational complexity W: 8000000000 operations
+Efficiency E: 0.569344
+Cost of computations C: 61.7537
+Total overhead T0: 2171.21
+
+M: 16000, N: 1000, K: 1000, P: 16
+Duration Serial: 71.1889 seconds
+Duration Parallel: 11.8814 seconds
+Speedup S: 5.99165
+Computational complexity W: 16000000000 operations
+Efficiency E: 0.374478
+Cost of computations C: 190.102
+Total overhead T0: 13533.1
+
