@@ -87,6 +87,7 @@ C20 | C21
   - исследовать влияние размеров блоков на производительность
   - оценить масштабируемость алгоритма при увеличении количества процессов и их влияние на время выполнения
   - проанализировать выигрыш в производительности
+  - Test Inspector + System Profiler (Visual Studio)
 
 ### Ссылки
 - [Matrix Multiplication Performance Guide NVIDIA](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html#math-mem)
